@@ -1,0 +1,2 @@
+# earthquakes
+data science practice
